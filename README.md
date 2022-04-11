@@ -23,4 +23,4 @@ Users are allowed to create an account, add items to their “cart” and search
 - Learn how to deal with the communication protocols to handle all website request/response.
 - Learn how to host it online on a cloud platform (heroku).
 
-xfun::embed_file("Project Description.pdf")
+xfun::embed_file("https://github.com/MohmmedTarek/GUC-STORE/blob/main/Project%20Description.pdf")
