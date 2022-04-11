@@ -1,7 +1,6 @@
 
 
 ![logo](https://github.com/MohmmedTarek/GUC-STORE/blob/main/public/logo.jpg)
-<i class="fa-solid fa-microphone"></i>
 
 GUC STORE is an online store through which users can review products info and added to their cart in order to buy it
 
