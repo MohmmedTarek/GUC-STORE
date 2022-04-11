@@ -24,5 +24,5 @@ Users are allowed to create an account, add items to their “cart” and search
 - Learn how to host it online on a cloud platform (heroku).
 
 
-{google_docs}https://docs.google.com/spreadsheets/d/14wh60-mvwjS_bxdPTztu-S5r8NA9w5v7LNLu4eeWMdc/edit#gid=565625200{/google_docs}
+{google_docs}https://docs.google.com/spreadsheets/d/e/2PACX-1vQXLJX2IgXdTXlwBNl6_x-KzPC2JiMxzSN26R7ml21jhd96ISoWiKJde_gI86LDaeD7vljlKNZ3OSEP/pub?gid=565625200&single=true&output=pdf{/google_docs}
  
