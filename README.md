@@ -28,5 +28,5 @@ Users are allowed to create an account, add items to their “cart” and search
 
 Module | Depends on User Story ID | Requirement ID |          |    User Story   |             | 
 -------|--------------------------|----------------|----------|-----------------|-------------|
-   |                              |	               | **As a** |  **I want to**  | **So that**
-uims|-|	1|Doctor|sign up|i can access the system
+  |    |                          |	               | **As a** |  **I want to**  | **So that**
+uims| |1|Doctor|sign up|i can access the system
