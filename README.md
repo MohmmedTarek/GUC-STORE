@@ -23,6 +23,4 @@ Users are allowed to create an account, add items to their “cart” and search
 - Learn how to deal with the communication protocols to handle all website request/response.
 - Learn how to host it online on a cloud platform (heroku).
 
-
-{google_docs}https://docs.google.com/spreadsheets/d/e/2PACX-1vQXLJX2IgXdTXlwBNl6_x-KzPC2JiMxzSN26R7ml21jhd96ISoWiKJde_gI86LDaeD7vljlKNZ3OSEP/pub?gid=565625200&single=true&output=pdf{/google_docs}
- 
+xfun::embed_file("Project Description.pdf")
