@@ -7,7 +7,7 @@ GUC STORE is an online store through which users can review products info and ad
 
 
 
-# Project Description :scroll:
+# Project Description
 
 ### Course 
 Introduction To Communication Networks (CSEN503)
@@ -23,4 +23,6 @@ Users are allowed to create an account, add items to their “cart” and search
 - Learn how to deal with the communication protocols to handle all website request/response.
 - Learn how to host it online on a cloud platform (heroku).
 
+
+{google_docs}https://docs.google.com/spreadsheets/d/14wh60-mvwjS_bxdPTztu-S5r8NA9w5v7LNLu4eeWMdc/edit#gid=565625200{/google_docs}
  
