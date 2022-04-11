@@ -6,15 +6,16 @@ GUC STORE is an online store through which users can review products info and ad
 
 
 
+
 # Project Description
 
 ### Course 
 Introduction To Communication Networks (CSEN503)
 
 ### Overview 
-The theme of the project, is to build a web application that is used as a simple shopping 
+The theme of the project is to build a web application that is used as a simple shopping 
 website. The website allows the users to lookup products descriptions, types, manufacturers… etc.
-Users should be allowed to create an account, add items to their “cart” and search for products. 
+Users are allowed to create an account, add items to their “cart” and search for products. 
 
 ### Objectives
 - Gain an experience in developing a network application based on the client/server architecture.
