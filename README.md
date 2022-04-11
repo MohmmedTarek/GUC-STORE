@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/MohmmedTarek/GUC-STORE/blob/main/public/logo.jpg)
 
-GUC STORE is an online store through which users can review products info and added to the cart in order to buy it
+GUC STORE is an online store through which users can review products info and added to their cart in order to buy it
 
 
 
